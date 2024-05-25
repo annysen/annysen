@@ -9,7 +9,16 @@ Eager to learn, grow, and make a meaningful impact in technology.
 Let's build something awesome together!
 
 ## 🛠 Skills
-HTML5, CSS3, Tailwind CSS, Bootstrap React JS, Typescript, ES6, VS Code, GitHub & Firebase Authentication.
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* React JS
+* Typescript
+* ES6
+* VS Code
+* GitHub 
+* Firebase Authentication.
 
 
 ## 🎓 Education
@@ -19,6 +28,7 @@ Masters in Information Technology | June 2023 - Present
 
 #### University of Science and Technology, Chittagong (USTC)
 BSc. Engg. in Computer Science & Engineering | November 2020
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anny-sen.netlify.app/)
 
