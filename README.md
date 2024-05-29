@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-Hi there! I'm Anny Sen, a Web Developer.
+### Hi there! I'm Anny Sen, a Web Developer.
 
 Currently, I'm learning backend web development, including MongoDB. I'm also working on React projects and assisting with coding challenges.
 
