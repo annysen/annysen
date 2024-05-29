@@ -1,10 +1,10 @@
 
 ## 🚀 About Me
-Hi there! I'm Anny Sen, a passionate Front End Developer.
+Hi there! I'm Anny Sen, a Web Developer.
 
-Currently, I'm learning web development, working on React projects, and trying to assist with coding challenges.
+Currently, I'm learning backend web development, including MongoDB. I'm also working on React projects and assisting with coding challenges.
 
-Eager to learn, grow, and make a meaningful impact in technology.
+I am eager to learn, grow, and make a meaningful impact in technology.
 
 Let's build something awesome together!
 
